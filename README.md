@@ -31,7 +31,9 @@ A responsive and visually engaging Netflix Clone website built using HTML, CSS, 
 📄 Multi-Page Support — Pages like Browse, Search, and My List
 
 🧑‍💻 About the Developer
-Niharikaa Singh
+
+
+ Niharikaa Singh
 📚 Second-year BCA student | 🚀 Aspiring Full Stack Developer | 🛡️ Cybersecurity Enthusiast
 
 "Learning by building — because great things start with bold ideas and clean code."
